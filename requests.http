@@ -1,0 +1,11 @@
+#6gfWBUuosD9XkrWtSLaFqCnZlA6oN9KWIp7
+#### request test
+get https://www.worldcoinindex.com/apiservice/ticker?key=6gfWBUuosD9XkrWtSLaFqCnZlA6oN9KWIp7&label=ethbtc-ltcbtc&fiat=btc
+
+
+
+##### API INDEX
+
+get http://localhost:3000/cryptos
+Content-Type: application/json
+
